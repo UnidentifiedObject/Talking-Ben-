@@ -1,0 +1,11 @@
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\bin\Debug\TryToMakeTalkingBen2.exe.config
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\bin\Debug\TryToMakeTalkingBen2.exe
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\bin\Debug\TryToMakeTalkingBen2.pdb
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.csproj.AssemblyReference.cache
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.Form1.resources
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.Properties.Resources.resources
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.csproj.GenerateResource.cache
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.csproj.CoreCompileInputs.cache
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.exe
+C:\Users\cevde\source\repos\TryToMakeTalkingBen2\TryToMakeTalkingBen2\obj\Debug\TryToMakeTalkingBen2.pdb
